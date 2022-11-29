@@ -2,8 +2,9 @@
 # Horiseon Challenge 1
 
 [Github Repo](https://github.com/damianfearon/challenge101)</br>
-[HTML](https://github.com/damianfearon/challenge101/blob/main/starter/index.html)</br>
-[CSS](https://github.com/damianfearon/challenge101/blob/main/starter/assets/css/style.css)
+[HTML](https://github.com/damianfearon/challenge101/blob/main/index.html)</br>
+[CSS](https://github.com/damianfearon/challenge101/blob/main/assets/css/style.css)
+[Website](https://damianfearon.github.io/challenge101/)
 
 ## Table of Contents
 - [Description](#Description)
