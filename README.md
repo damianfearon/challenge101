@@ -3,7 +3,7 @@
 
 [Github Repo](https://github.com/damianfearon/challenge101)</br>
 [HTML](https://github.com/damianfearon/challenge101/blob/main/index.html)</br>
-[CSS](https://github.com/damianfearon/challenge101/blob/main/assets/css/style.css)
+[CSS](https://github.com/damianfearon/challenge101/blob/main/assets/css/style.css)</br>
 [Website](https://damianfearon.github.io/challenge101/)
 
 ## Table of Contents
