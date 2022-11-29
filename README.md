@@ -54,9 +54,9 @@ A. _This was a difficult challenge as I felt unprepared when first provided with
 
 ## Installation 
 Please upload the following to the deployed webserver:
-1. [index.html](https://github.com/damianfearon/challenge101/blob/main/starter/index.html)</br>
+1. [index.html](https://github.com/damianfearon/challenge101/blob/main/index.html)</br>
 2. [license.txt](https://github.com/damianfearon/challenge101/blob/main/LICENSE)</br>
-3. [assets folder (contains CSS files and images for the Horiseon website)](https://github.com/damianfearon/challenge101/tree/main/starter/assets) </br>
+3. [assets folder (contains CSS files and images for the Horiseon website)](https://github.com/damianfearon/challenge101/tree/main/assets) </br>
 
 ## Usage 
 The Horiseon can be deployed on web browsers such as Google Chrome, Safari and Firefox. </br>
